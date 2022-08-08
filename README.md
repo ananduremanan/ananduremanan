@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ananduremanan
 - 👀 I’m interested in Machine Learning, Computer Vision And BlockChain
-- 🌱 I’m currently pursuing MSc. in Computer Science
-- 💞️ I’m looking to collaborate on Deep Learning, BlockChain
+- 🌱 I’m currently learning Python for data science.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me : check my website https://imanandhuor.ml
 
 <!---
