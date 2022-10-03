@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ananduremanan
-- 😑 Working as a Junior Software Engineer 
+- 😑 Working as a Junior Software Developer 
 - 👀 I’m interested in Machine Learning, Computer Vision And BlockChain
 - 🌱 I’m currently learning Python for data science.
 - 💞️ I’m looking to collaborate on any Python Projects.
