@@ -6,10 +6,10 @@
 - 📫 How to reach me : check my website https://imanandhuor.ml
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 50px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
   </div>
-  <div style="margin-left: 50px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
   </div>
 </div>
