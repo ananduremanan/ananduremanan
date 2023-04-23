@@ -10,15 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 50px; display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
-  </div>
-  <div style="margin-left: 50px; display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
-  </div>
-</div>
-
 
 <!---
 ananduremanan/ananduremanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
