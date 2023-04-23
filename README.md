@@ -7,9 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff)](https://github.com/ananduremanan/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true)](https://github.com/ananduremanan/github-readme-stats)
-
 <!-- [![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananduremanan)](https://github.com/ananduremanan/github-readme-stats) -->
 
 <!---
