@@ -5,10 +5,6 @@
 - 👀 I’m interested in Machine Learning, Computer Vision And BlockChain.
 - 📫 How to reach me : check my website https://imanandhuor.ml
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff)
-
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages" style="margin-right: 10px" />
   <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
