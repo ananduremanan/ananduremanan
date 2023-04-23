@@ -6,14 +6,12 @@
 - 📫 How to reach me : check my website https://imanandhuor.ml
 
 <a href="https://github.com/ananduremanan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ananduremanana&repo=github-readme-stats" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true)](https://github.com/ananduremanan/github-readme-stats)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true)](https://github.com/ananduremanan/github-readme-stats)
 
 <!-- [![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananduremanan)](https://github.com/ananduremanan/github-readme-stats) -->
 
