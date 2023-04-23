@@ -5,10 +5,15 @@
 - 👀 I’m interested in Machine Learning, Computer Vision And BlockChain.
 - 📫 How to reach me : check my website https://imanandhuor.ml
 
-<div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages" style="margin-right: 10px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 50px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
+  </div>
+  <div style="margin-left: 50px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" />
+  </div>
 </div>
+
 
 <!---
 ananduremanan/ananduremanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
