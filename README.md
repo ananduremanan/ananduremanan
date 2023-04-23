@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff)
 
-![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananduremanan)
+![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff)
 
 <!---
 ananduremanan/ananduremanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
