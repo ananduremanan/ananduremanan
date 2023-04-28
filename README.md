@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ananduremanan
 - 😑 Working as a Junior Software Developer 
-- 👀 I’m interested in Machine Learning, Computer Vision And BlockChain.
+- 👀 I’m interested in Machine Learning, Computer Vision, Full Stack And BlockChain.
 - 📫 How to reach me : check my website https://imanandhuor.ml
 
 <div style="display: flex;  justify-content: center">
