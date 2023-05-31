@@ -1,4 +1,4 @@
-![Javascript wallpaper by wallpaper access](https://raw.githubusercontent.com/ananduremanan/Demo/demo_files/4635758.jpg)
+<!-- ![Javascript wallpaper by wallpaper access](https://raw.githubusercontent.com/ananduremanan/Demo/demo_files/4635758.jpg) -->
 
 - 👋 Hi, I’m @ananduremanan
 - 😑 Working as a Junior Software Developer 
