@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ananduremanan
 - 😑 Working as a Junior Software Developer 
 - 👀 I’m interested in Machine Learning, Computer Vision, Full Stack And BlockChain.
-- 📫 How to reach me : check my website https://imanandhuor.ml
+- 📫 How to reach me : check my [website](https://imanandhuremanan.vercel.app/)
 - 💰 Coding pays my bills.
 <!-- - 👨‍💻 LeetCode : https://leetcode.com/Anandhu_Remanan/ -->
 
