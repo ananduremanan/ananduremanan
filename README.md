@@ -7,6 +7,8 @@
 - 💰 Coding pays my bills.
 <!-- - 👨‍💻 LeetCode : https://leetcode.com/Anandhu_Remanan/ -->
 
+<a href="https://www.buymeacoffee.com/anandhuremanan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <div style="display: flex;  justify-content: center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=24292f&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
