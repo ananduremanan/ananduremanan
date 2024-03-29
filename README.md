@@ -11,7 +11,7 @@
 
 <div style="display: flex;  justify-content: center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=ananduremanan&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=24292f&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananduremanan&hide_progress=true&bg_color=24292f&title_color=ffffff&text_color=ffffff" alt="Top Languages" /> -->
 </div>
 
 <!---
